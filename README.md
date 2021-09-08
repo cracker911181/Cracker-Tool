@@ -7,7 +7,7 @@
 <img title="TeleGram" src="https://img.shields.io/badge/TL-cracker911181-lightgrey?style=for-the-badge&logo=telegram"<br><br><br>
 </a>
 
-          <b>Coded by CRACKER911181
+          Coded by CRACKER911181
 
      Crack your world, if you can
         Don't copy my style</b>
