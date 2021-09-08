@@ -20,7 +20,7 @@
 
 
 ### version:
-<div align="center"><i><b>1.0<b> version: 1.2 Updated Will coming soon<br></i></div>
+<div align="center"><i><b>1.0</b> <br><b>version: 1.2 Updated Will coming soon</b><br></i></div>
 
 
 ### Last Update:
