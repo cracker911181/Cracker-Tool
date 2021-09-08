@@ -17,7 +17,7 @@
 <div align="center"><b>09/09/2021</b></div>
 
 # Commands:
-	```For First Time Use:```
+	``` For First Time Use: ```
 	
 	$ apt update 
 	$ apt upgrade -y
