@@ -10,4 +10,4 @@
 </div><br>
 
 ### version:
-<div align="center"><pre><i>1.0</i><pre></div>
+<div align="center"><i><b>1.0<b></i></div>
