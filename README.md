@@ -5,8 +5,12 @@
      Crack your world, if you can
         Don't copy my style
 
-<pre> All in One Tools <pre>
+<div align="center">
+<pre>All in One Tools <pre>
 
+</div>
+
+<br>
 
 ### version:
 	1.0
