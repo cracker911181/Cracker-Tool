@@ -28,3 +28,11 @@
 	$ sh requirement.sh
 	$ python cracker-main.py
 	
+
+
+    +++ For Anytime Use: +++
+
+	$ cd Cracker-Tool
+	$ python cracker-main.py
+
+
