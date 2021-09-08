@@ -6,11 +6,8 @@
         Don't copy my style
 
 <div align="center">
-<pre>All in One Tools <pre>
-
-</div>
-
-<br>
+<pre> All in One Tools <pre>
+</div><br>
 
 ### version:
 	1.0
