@@ -11,5 +11,5 @@
 
 ### version:
 <div align="center">
-	1.0
+	<pre>1.0<pre>
 </div>
