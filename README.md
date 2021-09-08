@@ -17,7 +17,8 @@
 <div align="center"><b>09/09/2021</b></div>
 
 # Commands:
-	For First Time Use:<br>
+	For First Time Use:
+	
 	$ apt update 
 	$ apt upgrade -y
 	$ pkg install git -y
