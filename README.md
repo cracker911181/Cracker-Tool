@@ -15,3 +15,15 @@
 
 ### Last Update:
 <div align="center"><b>09/09/2021</b></div>
+
+# Commands:
+	For First Time Use:<br>
+	$ apt update 
+	$ apt upgrade -y
+	$ pkg install git -y
+	$ pkg install python -y
+	$ git clone https://github.com/cracker911181/Cracker-Tool
+	$ cd Cracker-Tool
+	$ sh requirement.sh
+	$ python cracker-main.py
+	
