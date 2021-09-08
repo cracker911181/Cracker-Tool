@@ -48,7 +48,8 @@
 
 # Contact Info:
 <img width="250" heigth="250" src="https://github.com/cracker911181/cracker911181/blob/f0f09b803e73fffddf7b82f54299549ee41098bc/20210907_040954.png?raw=true"/><br>
-
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cracker911181&show_icons=true&theme=radical)
 
 
 	FB      : https://www.facebook.com/cracker911181
