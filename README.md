@@ -35,7 +35,6 @@
 	$ pkg install python -y
 	$ git clone https://github.com/cracker911181/Cracker-Tool
 	$ cd Cracker-Tool
-	$ sh requirement.sh
 	$ python cracker-main.py
 	
 
