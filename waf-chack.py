@@ -1,4 +1,5 @@
-# Python code obfuscated by www.development-tools.net 
+# Coded by Cracker
+# CRACKER911181
  
 
 import base64, codecs
