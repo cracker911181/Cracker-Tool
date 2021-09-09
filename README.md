@@ -10,7 +10,7 @@
           Coded by CRACKER911181
 
      Crack your world, if you can
-        Don't copy my style</b>
+        Don't copy my style
 
 <div align="center">
 <b><b>All in One Tools</b></b>
