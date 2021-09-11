@@ -9,6 +9,6 @@ cd Cracker-Tool
 
 echo
 echo "		updated"
-sleep 2
-python -c "import sys"
-python -c "sys.exit()"
+sleep 3
+exit
+
