@@ -9,3 +9,5 @@ cd Cracker-Tool
 
 echo
 echo "		updated"
+sleep 2
+python $HOME/Cracker-Tool/craxker-main.py
