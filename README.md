@@ -20,11 +20,11 @@
 
 
 ### version:
-<div align="center"><i><b>1.5</b> <br><b>Termux Banner Added!</b><br></i></div>
+<div align="center"><i><b>1.7</b> <br><b>Python Script Obfuscator/encoder Added!</b><br></i></div>
 
 
 ### Last Update:
-<div align="center"><b>11/09/2021</b></div>
+<div align="center"><b>12/09/2021</b></div>
 
 # Commands:
      +++ For First Time Use: +++
