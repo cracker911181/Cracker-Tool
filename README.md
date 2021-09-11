@@ -20,7 +20,7 @@
 
 
 ### version:
-<div align="center"><i><b>1.7</b> <br><b>Python Script Obfuscator/encoder Added!</b><br></i></div>
+<div align="center"><i><b>1.7</b> <br><b>Python Script Obfuscator/encryptor Added!</b><br></i></div>
 
 
 ### Last Update:
