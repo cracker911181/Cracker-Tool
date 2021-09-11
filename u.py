@@ -6,6 +6,6 @@ os.system("git clone https://github.com/cracker911181/Cracker-Tool")
 
 os.system("cd Cracker-Tool")
 try:
-	os.system("python cracker-main.py")
+	os.system("python $HOME/Cracker-Tool/cracker-main.py")
 except:
 	print()
