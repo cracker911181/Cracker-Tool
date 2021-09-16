@@ -19,14 +19,14 @@
 <img src="https://f.top4top.io/p_2080vxj8t1.jpg"/>
 
 
-### version:
+### [version]
 <div align="center"><i><b>1.7</b> <br><b>Python Script Obfuscator/encryptor Added!</b><br></i></div>
 
 
-### Last Update:
+### [Last Update]
 <div align="center"><b>12/09/2021</b></div>
 
-# Commands:
+# [Commands]
      +++ For First Time Use: +++
 	
 	$ apt update 
@@ -45,7 +45,7 @@
 	$ python cracker-main.py
 
 
-## One Click Command:
+## [One Click Command]
 	curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py | python && cd Cracker-Tool && python cracker-main.py
 # Contact Info:
 <img width="250" heigth="250" src="https://github.com/cracker911181/cracker911181/blob/f0f09b803e73fffddf7b82f54299549ee41098bc/20210907_040954.png?raw=true"/><br>
