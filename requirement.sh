@@ -5,3 +5,5 @@ pip install pyfiglet
 pip install bs4
 pip install youtube_dl
 pip install gTTS
+pip install telethon
+pip install python-telegram-bot
