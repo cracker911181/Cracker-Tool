@@ -21,4 +21,16 @@ def main():
 try:
 	main()
 except NameError:
-	main()
+
+	print("\x1b[91m \n\n\tYou Entered A Invalid Option")
+	import sys,os
+	op=str(input("\x1b[92m\n\n\t\t1.Reastart Tool\n\t\t\x1b[94m2.Exit\n\n\x1b[95mEnter Your Option: "))
+	
+	if op=="2":
+		os.system('clear')
+		
+		print("\x1b[93m\n\n\n\n\n\n\t\t🤩Thanks For Using My Tool🤩    ")
+		sys.exit()
+
+	if op=="1":
+		main()
