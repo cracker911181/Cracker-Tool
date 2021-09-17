@@ -20,11 +20,11 @@
 
 
 ### [version]
-<div align="center"><i><b>2.0</b> <br><b>Telegram Kit Added!</b><br></i></div>
+<div align="center"><i><b>2.0</b> <br><b>Telegram Kit Added & Bug Fixed!</b><br></i></div>
 
 
 ### [Last Update]
-<div align="center"><b>12/09/2021</b></div>
+<div align="center"><b>17/09/2021</b></div>
 
 # [Commands]
      +++ For First Time Use: +++
