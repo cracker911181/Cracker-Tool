@@ -20,7 +20,7 @@
 
 
 ### [version]
-<div align="center"><i><b>2.0</b> <br><b>Telegram Kit Added & Bug Fixed!</b><br></i></div>
+<div align="center"><i><b>2.0</b> <br><b>Bug Fixed on Telegram Kit!</b><br></i></div>
 
 
 ### [Last Update]
