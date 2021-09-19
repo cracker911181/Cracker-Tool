@@ -110,5 +110,6 @@ chmod +x postgresql_ctl.sh
 
 echo
 center "*"
-echo -e "\033[32m Installation complete. \n To start msf database use: ./postgresql_ctl.sh start \n Launch metasploit by executing: msfconsole\033[0m"
+#echo -e "\033[32m Installation complete. \n To start msf database use: ./postgresql_ctl.sh start \n Launch metasploit by executing: msfconsole\033[0m"
 center "*"
+clear
