@@ -20,7 +20,7 @@
 
 
 ### [version]
-<div align="center"><i><b>2.3</b> <br><b>Termux Framework Added!</b><br></i></div>
+<div align="center"><i><b>2.5</b> <br><b>Kali Nethunter Added!</b><br></i></div>
 
 
 ### [Last Update]
