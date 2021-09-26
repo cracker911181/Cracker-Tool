@@ -3,6 +3,8 @@ pip install requests
 pip install mechanize
 pip install pyfiglet
 pip install bs4
+pip install lolcat
+pip install cowsay 
 pip install youtube_dl
 pip install gTTS
 pip install telethon
