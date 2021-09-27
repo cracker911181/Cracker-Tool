@@ -16,11 +16,11 @@
 <b><b>All in One Tools</b></b>
 </div><br>
 
-<img src="https://a.top4top.io/p_2089r8acd1.jpg"/>
+<img src="https://k.top4top.io/p_2096k8wy11.jpg"/>
 
 
 ### [version]
-<div align="center"><i><b>2.5</b> <br><b>Kali Nethunter Added!</b><br></i></div>
+<div align="center"><i><b>2.7</b> <br><b>Termux Banner Removed, Termux Tool Added and BD Cloner's Bug Fixed!</b><br></i></div>
 
 
 ### [Last Update]
