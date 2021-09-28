@@ -16,15 +16,15 @@
 <b><b>All in One Tools</b></b>
 </div><br>
 
-<img src="https://k.top4top.io/p_2096k8wy11.jpg"/>
+<img src="https://h.top4top.io/p_209734r6l1.jpg"/>
 
 
 ### [version]
-<div align="center"><i><b>2.7</b> <br><b>Termux Banner Removed, Termux Tool Added and BD Cloner's Bug Fixed!</b><br></i></div>
+<div align="center"><i><b>3.0</b> <br><b>Some Bug Fixed And URL Changer Added!</b><br></i></div>
 
 
 ### [Last Update]
-<div align="center"><b>27/09/2021</b></div>
+<div align="center"><b>28/09/2021</b></div>
 
 # [Commands]
      +++ For First Time Use: +++
