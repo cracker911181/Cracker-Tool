@@ -20,7 +20,7 @@
 
 
 ### [version]
-<div align="center"><i><b>3.0</b> <br><b>Some Bug Fixed And URL Changer Added!</b><br></i></div>
+<div align="center"><i><b>3.0</b> <br><b>Some Bug Fixed & URL Changer Added!</b><br></i></div>
 
 
 ### [Last Update]
