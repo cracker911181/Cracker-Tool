@@ -10,4 +10,4 @@ pip install youtube_dl
 pip install gTTS
 pip install telethon
 pip install python-telegram-bot
-pip install pyshorteners
+
