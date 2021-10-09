@@ -1,60 +1,117 @@
-<div align="center"><h3> CRACKER-Tool <br></h3>
+<pre>
+ =============================================
+|                                             |
+|  _________________________________________  |
+| |                                         | |
+| |             <b>INTRODUCTION</b>                | |
+| |            ——————————————               | |
+| |   This is A Python & Bash Programming   | |    
+| |BasedTermux-Tool Created By <a href="https://www.facebook.com/cracker911181">CRACKER911181</a>| |
+| |   This Tool Created For Hacking and     | |
+| | Pentesting.If You Use This Tool To Evil | |
+| |  Purpose,I'm Not Responsible For That.  | |
+| |            <a href="https://play.google.com/store/apps/details?id=com.termux">Termux</a> User only             | |
+| |_________________________________________| |
+|                                             |
+|  _________________________________________  |
+| |                                         | |
+| |		  | @   @ |		    | |
+| |                ———————		    | |
+| |               |cracker|		    | |	  
+| |                ———————		    | |
+| |           /\  |       |   /\\	    | |
+| |          // \——       ———/  \\	    | |  
+| |     ____// crack your world  \\___ 	    | |
+| |			                    | |
+| |  |==================================|   | |
+| |  |        DON'T COPY MY STYLE       |   | |
+| |  |==================================|   | |
+| |                                         | |
+| |_________________________________________| |
+|                                             |
+|  _________________________________________  |
+| |                                         | |
+| |        <b>CRACKER ALL IN ONE TOOL</b>          | |
+| |                                         | |
+| |               <b>VERSION</b>                   | |
+| |              __________                 | |
+| |                                         | |
+| | 3.5 ;      WEB Tool Added!              | |
+| |_________________________________________| |
+|                                             |
+|  _________________________________________  | 
+| |                                         | |
+<!--| |        CRACKER ALL IN ONE TOOL         | |-->| |             <b>INSTALLATION</b>                | |
+| |             _____________               | |
+| |                                         | |
+| | For First Time Installtion:             | |
+| |   $ apt update -y                       | |
+| |   $ apt upgrade -y                      | |
+| |   $ pkg install git -y                  | |
+| |   $ git clone <a href="https://github.com/cracker911181/Cracker-Tool">https://github.com/cracke</a> | |
+| |                   <a href="https://github.com/cracker911181/Cracker-Tool">r911181/Cracker911181</a> | |
+| |                                         | |
+| | Any Time Run Code:                      | |
+| |  $ cd Cracker-Tool                      | |
+| |  $ Python cracker-main.py               | |
+| |                                         | |
+| |                                         | |
+| | > Git Clone Link:                       | |
+| |               <a href="https://github.com/cracker911181/Cracker-Tool">Link</a>                      | |
+| |_________________________________________| |
+|                                             |
+|  _________________________________________  |
+| |                                         | |
+| |               <b>FEATURES</b>                  | |
+| |              ___________                | |
+| |                                         | |
+| |         1. IP Tool                      | |
+| |         2. Subdomain Scanner            | |
+| |         3. Ddos Attack Tool             | |
+| |         4. Admin Finder                 | |
+| |         5. Has Cracker                  | |
+| |         6. Video Downloader             | |
+| |         7. BD Cloner                    | |
+| |         8. SQL Injection Tool           | |
+| |         9. Text To Voice Convertor      | |
+| |        10. Python Obfuscator            | |
+| |        11. Telegram Kit                 | |
+| |        12. Termux Framework             | |
+| |        13. Kali Nethunter Installer     | |
+| |        14. Termux Tool                  | |
+| |        15. URL Changer                  | |
+| |        16. URL Shortner                 | |
+| |        17. WEB Tool                     | |
+| |_________________________________________| |
+|                                             |
+ =============================================
+</pre>
+
+<!--
+$ curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py
+-->
 
 <br>
-<a href="https://github.com/cracker911181"/>
-<img title="Github" src="https://img.shields.io/badge/cracker911181-grey?style=for-the-badge&logo=github"/></a><a href="https://www.facebook.com/cracker911181"/>
-<img title="FaceBook" src="https://img.shields.io/badge/FB-cracker911181-lightgrey?style=for-the-badge&logo=facebook"></a><a href="https://t.me/cracker911181"/>
-<img title="TeleGram" src="https://img.shields.io/badge/TL-cracker911181-lightgrey?style=for-the-badge&logo=telegram"<br><br><br>
-</a></div>
 
-          Coded by CRACKER911181
-
-     Crack your world, if you can
-        Don't copy my style
-
-<div align="center">
-<b><b>All in One Tools</b></b>
-</div><br>
-
-<img src="https://d.top4top.io/p_2103wppf11.jpg"/>
+<b>
+  
+  
+> SCREENSHORT
 
 
-### [version]
-<div align="center"><i><b>3.5</b> <br><b>WEB TOOL Added!</b><br></i></div>
+</b>
+<img src="https://github.com/cracker911181/Cracker-Tool/blob/cd8a61b51f84274205867db000f844b3738f1776/.fucked/20211010_022038.jpg" />
 
-
-### [Last Update]
-<div align="center"><b>04/10/2021</b></div>
-
-# [Commands]
-     +++ For First Time Use: +++
-	
-	$ apt update 
-	$ apt upgrade -y
-	$ pkg install git -y
-	$ pkg install python -y
-	$ git clone https://github.com/cracker911181/Cracker-Tool
-	$ cd Cracker-Tool
-	$ python cracker-main.py
-	
-
-
-    +++ For Anytime Use: +++
-
-	$ cd Cracker-Tool
-	$ python cracker-main.py
-
-
-## [One Click Command]
-	curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py
-# [Contact Info]:
-<img width="250" heigth="250" src="https://github.com/cracker911181/cracker911181/blob/f0f09b803e73fffddf7b82f54299549ee41098bc/20210907_040954.png?raw=true"/><br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cracker911181&show_icons=true&theme=radical)
 
+<b>
+  
 
-	FB      : https://www.facebook.com/cracker911181
-	GitHub  : https://github.com/cracker911181
-	Telegram: https://t.me/cracker911181
+> CONTACT INFO  
 
-<div align="center"><br><br><b>🤩Thank You For Using My Tool🤩</b></div>
+</b>
+<pre>
+<b> FB</b>       :          <a href="https://www.facebook.com/cracker911181"><i>Link</i></a>
+<b> GitHub</b>   :          <a href="https://github.com/cracker911181"><i>Link</i></a>
+<b> Telegram</b> :          <a href="https://t.me/cracker911181"><i>LINK</i></a> 
+</pre>
