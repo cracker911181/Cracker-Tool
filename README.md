@@ -94,7 +94,7 @@
 
 > ONE LINE COMMAND
 
-``` $ curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py ``` 
+<pre> curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py</pre> 
 
   
 > SCREENSHORT
