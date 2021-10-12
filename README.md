@@ -89,7 +89,7 @@
 
 
 <br>
-
+<div align="center">
 <b>
 
 > ONE LINE COMMAND
@@ -110,7 +110,7 @@
 
 > CONTACT INFO  
 
-</b>
+</b></div>
 <pre>
 <b> FB</b>       :          <a href="https://www.facebook.com/cracker911181"><i>Link</i></a>
 <b> GitHub</b>   :          <a href="https://github.com/cracker911181"><i>Link</i></a>
