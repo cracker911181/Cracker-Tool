@@ -97,7 +97,8 @@
 
 > ONE LINE COMMAND
 
-<pre> curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py</pre> 
+
+``` curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py ``` 
 <br>
 
   
