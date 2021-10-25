@@ -61,7 +61,7 @@ $ apt upgrade -y
 $ apt update -y
 $ pkg install git 
 $ pkg install python -y
-$ git clone https://github.com/cracker911181/Cracker911181
+$ git clone https://github.com/cracker911181/Cracker-Tool
 
 
 [+] Run This Tool, Put The Following Commands in Your Termux:
