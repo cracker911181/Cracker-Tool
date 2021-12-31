@@ -4,7 +4,7 @@ pip install mechanize
 pip install pyfiglet
 pip install bs4
 pip install lolcat
-pip install git+https://github.com/cracker911181/cracker_say
+pip install cracker-say
 pip install cowsay 
 pip install youtube_dl
 pip install gTTS
