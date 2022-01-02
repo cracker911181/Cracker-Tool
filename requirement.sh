@@ -1,6 +1,10 @@
 pkg install figlet -y 
 pip install requests
 pip install mechanize
+
+# remove play-store coution notice:
+rm -rf /data/data/com.termux/files/usr/etc/motd-playstore
+
 pip install pyfiglet
 pip install bs4
 pip install lolcat
