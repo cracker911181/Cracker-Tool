@@ -76,7 +76,7 @@ $ python cracker-main.py
 $ cracker
 
 
-[+] You can use this one line command for installation and set this tool:
+[+] You can use this one line command for installation and setting this tool:
 
 $ curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py
 
