@@ -9,5 +9,5 @@ cd Cracker-Tool
 
 echo
 echo "		updated"
-sleep 3
+sleep 2.5
 
