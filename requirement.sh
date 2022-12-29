@@ -8,7 +8,7 @@ rm -rf /data/data/com.termux/files/usr/etc/motd-playstore
 pip install pyfiglet
 pip install bs4
 pip install lolcat
-pip install cracker-say
+pip install -i https://test.pypi.org/simple/ cracker-say
 pip install cowsay 
 pip install youtube_dl
 pip install gTTS
