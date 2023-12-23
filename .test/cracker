@@ -1,0 +1,4 @@
+cd $HOME
+cd Cracker-Tool
+chmod +x cracker-main.py
+python cracker-main.py
