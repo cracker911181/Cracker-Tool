@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #######################
 #                     #
 #        main         # MAIN FILE
@@ -23,8 +22,6 @@
  
 
 
-=======
->>>>>>> 92deafb008d1bb650e2a2df0d133f097b979d969
 
 import os,time,sys,marshal,glob
 
@@ -296,8 +293,5 @@ while True:
 		os.system("chmod +x up.sh")
 		os.system("./up.sh")
 		sys.exit()
-<<<<<<< HEAD
 	
 
-=======
->>>>>>> 92deafb008d1bb650e2a2df0d133f097b979d969
